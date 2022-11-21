@@ -1,0 +1,9 @@
+{
+  "name": "adapt-authoring-uilibs",
+  "version": "0.0.1",
+  "description": "Third-party libraries for the Adapt authoring tool UI",
+  "homepage": "https://github.com/adaptlearning/adapt-authoring-uilibs",
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "repository": "github:adapt-security/adapt-authoring-uilibs"
+}
