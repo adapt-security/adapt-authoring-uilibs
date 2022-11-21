@@ -5,5 +5,8 @@
   "homepage": "https://github.com/adaptlearning/adapt-authoring-uilibs",
   "license": "GPL-3.0",
   "main": "index.js",
+  "scripts": {
+    "postinstall": "node npm_hooks/postinstall.js"
+  },
   "repository": "github:adapt-security/adapt-authoring-uilibs"
 }
