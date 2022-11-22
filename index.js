@@ -1,1 +1,1 @@
-export { default as LIBRARIES } from './lib/LIBRARIES.js';
+export { default } from './lib/UiLibsModule.js';
