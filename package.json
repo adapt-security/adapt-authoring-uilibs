@@ -6,5 +6,8 @@
   "license": "GPL-3.0",
   "type": "module",
   "main": "index.js",
-  "repository": "github:adapt-security/adapt-authoring-uilibs"
+  "repository": "github:adapt-security/adapt-authoring-uilibs",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
